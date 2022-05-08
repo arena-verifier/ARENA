@@ -1,0 +1,6 @@
+numpy==1.18.0
+tensorflow==1.14.0
+onnx==1.10.2
+pycddlib==2.1.1
+tqdm==4.43.0
+onnxruntime==1.10.0

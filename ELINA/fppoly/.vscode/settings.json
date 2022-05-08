@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "expr.h": "c",
+        "compute_bounds.h": "c",
+        "stdio.h": "c",
+        "relu_approx.h": "c",
+        "stdlib.h": "c",
+        "hash_map": "c",
+        "time.h": "c",
+        "math.h": "c"
+    }
+}
