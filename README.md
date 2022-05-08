@@ -19,7 +19,7 @@ git clone https://github.com/arena-verifier/ARENA.git
 cd ARENA
 ```
 
-The dependencies can be installed step by step as follows (sudo rights might be required):
+The dependencies can be installed as follows (sudo rights might be required):
 ```
 sudo ./install.sh
 source gurobi_setup_path.sh
